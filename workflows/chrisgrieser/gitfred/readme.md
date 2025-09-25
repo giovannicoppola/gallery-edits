@@ -7,7 +7,7 @@ Search all public GitHub repositories via the `gh` keyword.
 ![Searching GitHub repositories](images/gh.png)
 
 * <kbd>↩</kbd> Open the repo's GitHub page.
-* <kbd>⌘↩</kbd> Open the repo's homepage. If it has none, opens the releases page instead.
+* <kbd>⌘</kbd><kbd>↩</kbd> Open the repo's homepage. If it has none, opens the releases page instead.
 * <kbd>⌥</kbd><kbd>↩</kbd> Copy the repo URL.
 * <kbd>⌃</kbd><kbd>↩</kbd> Shallow clone the repo to a local folder and open in the Terminal. Optionally, creates a fork on GitHub with the `gh` cli and prepares the repo for a PR.
 * <kbd>⇧</kbd><kbd>↩</kbd> Search the repo for a query via GitHub Code Search.
@@ -44,3 +44,4 @@ Directly open your GitHub notification via the `ghn` keyword. This requires a [G
 * <kbd>↩</kbd> Open the notification in the browser.
 * <kbd>⌘</kbd><kbd>↩</kbd> Mark the notification as read.
 * <kbd>⌥</kbd><kbd>↩</kbd> Copy the URL of the notification target.
+* <kbd>⇧</kbd><kbd>↩</kbd> Mark the notification as done.
