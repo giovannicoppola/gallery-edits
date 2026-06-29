@@ -12,7 +12,9 @@ Search for Michelin restaurants by name, location, cuisine, or distinction via t
 
 ![Showing details](images/details.png)
 
-Search is case-sensitive when it includes uppercase letters. Awards can be searched via `3s`, `2s`, `1s`, `bib`, `gs`, or `sr` keywords.
+Search is case-sensitive when it includes uppercase letters. Awards can be searched via the `3s`, `2s`, `1s`, `bg`, `gs`, or `sr` keywords.
+
+Narrow results by country or US state with `country:japan` or `state:ca`, and append `--current` to show only restaurants currently in the 2026 guide. Tokens can be combined, e.g. `!mm state:ca 3s` or `!mm country:france gs`.
 
 ![Showing advanced search](images/advanced_search.png)
 
