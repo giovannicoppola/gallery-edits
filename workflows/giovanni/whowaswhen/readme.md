@@ -1,6 +1,6 @@
 ## Usage
 
-Search for historical names, titles, years, or events via the `wwho` keyword.
+Search for historical names, titles, years, or events via the `wwho` keyword. 
 
 ![Main search for year, names, titles](images/search.png)
 
@@ -18,3 +18,9 @@ Filter for events only via the `--e` search flag.
 Refresh the master database at intervals set in the Workflow’s configuration, or manually via the `::whoWasWhen-refresh` keyword.
 
 ![Refresh completed screen](images/refresh.png)
+
+## Companion iPhone app
+
+WhoWasWhen now has a free iPhone companion app — the same history at your fingertips when you’re away from your Mac. It’s offline, with no account and no tracking.
+
+[![Download on the App Store](images/appstore-badge.png)](https://apps.apple.com/app/whowaswhen/id6780277187)
