@@ -21,6 +21,6 @@ Refresh the master database at intervals set in the Workflow’s configuration, 
 
 ## Companion iPhone app
 
-WhoWasWhen now has a free iPhone companion app — the same history at your fingertips when you’re away from your Mac. It’s offline, with no account and no tracking.
+The same history at your fingertips when you’re away from your Mac. 
 
 [![Download on the App Store](images/appstore-badge.png)](https://apps.apple.com/app/whowaswhen/id6780277187)
