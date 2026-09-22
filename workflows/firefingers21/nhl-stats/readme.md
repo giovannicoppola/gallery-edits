@@ -1,6 +1,6 @@
 ## Usage
 
-View the latest [NHL](https://www.nhl.com/) standings via the `nhl` keyword. Type to filter by Team, Ranking, Division, Conference, or Wildcard.
+View the latest [NHL](https://www.nhl.com/) standings via the `nhl` keyword. Type to filter by Team, Ranking, Division, Conference, Clinch, or Wildcard.
 
 ![Using the nhl keyword](images/keyword.png)
 
@@ -8,6 +8,7 @@ View the latest [NHL](https://www.nhl.com/) standings via the `nhl` keyword. Typ
 * <kbd>⌘</kbd><kbd>↩</kbd> Rank teams by Division.
 * <kbd>⌥</kbd><kbd>↩</kbd> Rank teams by Conference.
 * <kbd>⌃</kbd><kbd>↩</kbd> Rank teams by League.
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Set/Unset Favourite Team.
 
 Additional Team Stats can be viewed directly within Alfred. This includes League, Home, Away, and L10 Stats.
 
